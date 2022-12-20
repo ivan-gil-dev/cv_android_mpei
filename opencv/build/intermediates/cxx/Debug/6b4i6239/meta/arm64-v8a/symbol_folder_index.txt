@@ -1,0 +1,1 @@
+G:\AndroidProjects2\FaceRecognition\opencv\build\intermediates\cxx\Debug\6b4i6239\obj\arm64-v8a
